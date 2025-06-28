@@ -114,5 +114,4 @@ src/
 
 ## 📧 Contact
 
-**Ahmed Cengiz**
 Email: [2022510158@ogr.deu.edu.tr](mailto:2022510158@ogr.deu.edu.tr)
