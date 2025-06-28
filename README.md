@@ -114,5 +114,5 @@ src/
 
 ## 📧 Contact
 
-**Your Name**
-Email: [your.email@ogr.deu.ed](mailto:your.email@ogr.deu.ed)
+**Ahmed Cengiz**
+Email: [ahmedcengizyavuz@gmail.com](mailto:ahmedcengizyavuz@gmail.com)
